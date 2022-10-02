@@ -34,34 +34,34 @@ I am Powerful Url Uploader Bot
 
     HELP_TEXT = """
 
-# Send me the Google Drive | ytdl | direct links.
+# Sᴇɴᴅ ᴍᴇ ᴛᕼᴇ Gᴏᴏɢʟᴇ Dʀɪᴠᴇ | ʏᴛᴅʟ | ᴅɪʀᴇᴄᴛ ʟɪɴᴋs.
 
-# Select the desired option.
+# Sᴇʟᴇᴄᴛ ᴛᕼᴇ ᴅᴇsɪʀᴇᴅ ᴏᴘᴛɪᴏɴ.
 
-# Then be relaxed your file will be uploaded soon..
+# Tᕼᴇɴ ʙᴇ ʀᴇʟᴀxᴇᴅ ʏᴏᴜʀ ғɪʟᴇ ᴡʜʟʟ ʙᴇ ᴜᴘʟᴏᴀᴅᴇᴅ sᴏᴏɴ..
  
 """
 
-# give credit to developer
+# ɢɪᴠᴇ ᴄʀᴇᴅɪᴛ ᴛᴏ ᴅᴇᴠᴇʟᴏᴘᴇʀ
 
     ABOUT_TEXT = """
-<b>♻️ My Name</b> : Url Uploader Bot
+<b>♻️ Mʏ Nᴀᴍᴇ</b> : Url Uploader Bot
 
-<b>🌀 Channel</b> : <a href="https://t.me/KHUSH">@movi2x</a>
+<b>🌀 Cᕼᴀɴɴᴇʟ</b> : <a href="https://t.me/KHUSH">@movi2x</a>
 
-<b>🌺 Heroku</b> : <a href="https://heroku.com/">Heroku</a>
+<b>🌺 Hᴇʀᴏᴋᴜ</b> : <a href="https://heroku.com/">Heroku</a>
 
-<b>📑 Language :</b> <a href="https://www.python.org/">Python 3.10.5</a>
+<b>📑 Lᴀɴɢᴜᴀɢᴇ :</b> <a href="https://www.python.org/">Python 3.10.5</a>
 
-<b>🇵🇲 Framework :</b> <a href="https://docs.pyrogram.org/">Pyrogram 2.0.30</a>
+<b>🇵🇲 Fʀᴀᴍᴇᴡᴏʀᴋ :</b> <a href="https://docs.pyrogram.org/">Pyrogram 2.0.30</a>
 
-<b>👲 Developer :</b> <a href="https://t.me/KHUSH">@movi2x</a>
+<b>👲 Dᴇᴠᴇʟᴏᴘᴇʀ :</b> <a href="https://t.me/KHUSH">@movi2x</a>
 
 """
 
     PROGRESS = """
-🔰 Speed : {3}/s\n\n
-🌀 Done : {1}\n\n
+🔰 Sᴘᴇᴇᴅ : {3}/s\n\n
+🌀 ᴅᴏɴᴇ : {1}\n\n
 🎥 Tᴏᴛᴀʟ sɪᴢᴇ  : {2}\n\n
 ⏳ Tɪᴍᴇ ʟᴇғᴛ : {4}\n\n
 """
@@ -71,21 +71,21 @@ I am Powerful Url Uploader Bot
 
     INFO_TEXT = """
 
- 🤹 First Name : <b>{}</b>
+ 🤹ꜰɪʀꜱᴛ ɴᴀᴍᴇ : <b>{}</b>
 
- 🚴‍♂️ Second Name : <b>{}</b>
+ 🧑🏻‍🎓ꜱᴇᴄᴏɴᴅ ɴᴀᴍᴇ : <b>{}</b>
 
- 🧑🏻‍🎓 Username : <b>@{}</b>
+ 🧑🏻‍🎓ᴜꜱᴇʀɴᴀᴍᴇ : <b>@{}</b>
 
- 🆔 Telegram Id : <code>{}</code>
+ 🆔ᴛᴇʟᴇɢʀᴀᴍ ɪᴅ : <code>{}</code>
 
- 📇 Profile Link : <b>{}</b>
+ 📇ᴘʀᴏꜰɪʟᴇ ʟɪɴᴋ : <b>{}</b>
 
- 📡 Dc : <b>{}</b>
+ 📡ᴅᴄ : <b>{}</b>
 
- 📑 Language : <b>{}</b>
+ 📑ʟᴀɴɢᴜᴀɢᴇ : <b>{}</b>
 
- 👲 Status : <b>{}</b>
+ 🛰️ꜱᴛᴀᴛᴜꜱ : <b>{}</b>
 """
 
     START_BUTTONS = InlineKeyboardMarkup(
